@@ -1,0 +1,7 @@
+.string-row {
+    display: flex;
+}
+
+.string-note {
+    width: 40px;
+}

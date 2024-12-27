@@ -1,0 +1,13 @@
+.fret-value {
+    width: 20px;
+    padding-top: 5px;
+    /* border: 1px solid black; */
+    font-size: 16px;
+}
+
+.fret-input {
+    width: 20px;
+    padding-top: 5px;
+    border: 1px solid white;
+    font-size: 16px;
+}
